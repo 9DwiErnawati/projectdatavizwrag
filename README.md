@@ -1,3 +1,5 @@
+<b>Amazon Sales Analysis</b><br>
+
 Latar Belakang <br>
 Dalam era e-commerce yang terus berkembang, pemahaman yang mendalam tentang perilaku pelanggan merupakan aset berharga bagi perusahaan seperti Amazon. Dengan data yang meliputi informasi penting seperti nama produk, kategori, harga, rating, dan ulasan pengguna, saya sebagai analis data memiliki kesempatan untuk menggali wawasan yang berharga. Dengan analisis yang teliti, tim data analyst bertujuan untuk mengidentifikasi pola pembelian yang mendasar, mengungkap preferensi produk yang paling diminati, dan memahami faktor-faktor yang memengaruhi keputusan pembelian. Dari sini, akan mengembangkan sistem rekomendasi yang dapat memberikan pengalaman belanja yang lebih personal dan memuaskan bagi pengguna Amazon. Dengan pendekatan ini, berharap dapat memberikan kontribusi yang signifikan dalam meningkatkan keunggulan kompetitif Amazon di pasar e-commerce yang semakin kompetitif ini.
 
@@ -44,6 +46,8 @@ review_content — Ulasan panjang — Ulasan panjang <br>
 img_link — Tautan Gambar Produk <br>
 product_link — Tautan Situs Web Resmi Produk
 
-
-Link : github , tableau , dataset , linkedin
+Link :  [tableau](https://public.tableau.com/views/PROJECT_17116087095310/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) , 
+        [dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/data) ,
+        [linkedin](https://www.linkedin.com/in/dwi-ernawati/) ,
+        [youtube](https://youtu.be/_Y8mzTe4gcg)
 
