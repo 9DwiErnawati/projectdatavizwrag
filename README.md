@@ -1,7 +1,7 @@
-Latar Belakang
+Latar Belakang <br>
 Dalam era e-commerce yang terus berkembang, pemahaman yang mendalam tentang perilaku pelanggan merupakan aset berharga bagi perusahaan seperti Amazon. Dengan data yang meliputi informasi penting seperti nama produk, kategori, harga, rating, dan ulasan pengguna, saya sebagai analis data memiliki kesempatan untuk menggali wawasan yang berharga. Dengan analisis yang teliti, tim data analyst bertujuan untuk mengidentifikasi pola pembelian yang mendasar, mengungkap preferensi produk yang paling diminati, dan memahami faktor-faktor yang memengaruhi keputusan pembelian. Dari sini, akan mengembangkan sistem rekomendasi yang dapat memberikan pengalaman belanja yang lebih personal dan memuaskan bagi pengguna Amazon. Dengan pendekatan ini, berharap dapat memberikan kontribusi yang signifikan dalam meningkatkan keunggulan kompetitif Amazon di pasar e-commerce yang semakin kompetitif ini.
 
-Objektif
+Objektif <br>
 Tujuan dari proyek ini adalah untuk melakukan analisis data eksploratori dan menentukan kategori produk mana yang memiliki pendapatan tertinggi, kategori mana yang menawarkan diskon terbanyak, kategori mana yang memiliki keterlibatan pelanggan tertinggi, dan wawasan lainnya.
 
 1. Identifikasi jumlah yang terjual di setiap kategori dan subkategori. Jumlah produk berbeda yang dijual per kategori dan subkategori merupakan indikasi yang baik tentang kategori dan subkategori mana yang lebih diminati pelanggan.
@@ -26,22 +26,22 @@ Dataset ini mencakup lebih dari 1K+ produk yang diambil berdasarkan kategorinya 
 2. Periode Waktu
 Data diambil pada bulan Januari 2023 dari Situs Web Resmi Amazon.
 
-3. Fitur
-product_id — ID Produk
-product_name — Nama Produk
-category — Kategori Produ
-harga_diskon — Harga Diskon Produk
-harga_aktual — Harga Aktual Produk
-persentase_diskon — Persentase Diskon untuk Produk
-rating — Peringkat Produk
-rating_count — Jumlah orang yang memilih peringkat Amazon
-about_product — Deskripsi tentang Produk
-user_id — ID pengguna yang menulis ulasan untuk Produk
-nama_pengguna — Nama pengguna yang menulis ulasan untuk Produk
-review_id — ID dari ulasan pengguna
-judul_ulasan — Ulasan singkat
-review_content — Ulasan panjang — Ulasan panjang
-img_link — Tautan Gambar Produk
+3. Fitur <br>
+product_id — ID Produk <br>
+product_name — Nama Produk <br>
+category — Kategori Produk <br>
+harga_diskon — Harga Diskon Produk <br>
+harga_aktual — Harga Aktual Produk <br>
+persentase_diskon — Persentase Diskon untuk Produk <br>
+rating — Peringkat Produk <br>
+rating_count — Jumlah orang yang memilih peringkat Amazon <br>
+about_product — Deskripsi tentang Produk <br>
+user_id — ID pengguna yang menulis ulasan untuk Produk <br>
+nama_pengguna — Nama pengguna yang menulis ulasan untuk Produk <br>
+review_id — ID dari ulasan pengguna <br>
+judul_ulasan — Ulasan singkat <br>
+review_content — Ulasan panjang — Ulasan panjang <br>
+img_link — Tautan Gambar Produk <br>
 product_link — Tautan Situs Web Resmi Produk
 
 
